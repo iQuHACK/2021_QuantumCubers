@@ -3,3 +3,4 @@ This repository consists of a jupyter notebook and a write-up that detail our so
 
 For our actual code, reference the jupyter notebook rubiks_solver.ipynb, and for a more in-depth description of our problem setup, algorithm, and results, reference the write-up in writeup.pdf.
 
+![](rubix-states.png)
