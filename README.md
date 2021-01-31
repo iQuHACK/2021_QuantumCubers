@@ -1,15 +1,5 @@
-# Welcome to iQuHACK 2021!
-Check out some info in the [event's repository](https://github.com/iQuHACK/2021) to get started.
+# Quantum Rubik's Cube Solver
+This repository consists of a jupyter notebook and a write-up that detail our solution for solving a 2x2x0 Rubik’s cube through representing it as a Markov chain and using a quantum search algorithm. This allowed us to obtain a speedup over any classical algorithm by taking advantage of quantum superposition and parallel computation, particularly in the case of sequences with a large number of moves. We would also be able to potentially extend this work to larger and more complex problems given the requisite hardware while maintaining the computational advantages provided by quantum computing.
 
-Having a README in your team's repository facilitates judging. A good README contains:
-* a clear title for your project,
-* a short abstract,
-* the motivation/goals for your project,
-* a description of the work you did, and
-* proposals for future work.
+For our actual code, reference the jupyter notebook rubiks_solver.ipynb, and for a more in-depth description of our problem setup, algorithm, and results, reference the write-up in writeup.pdf.
 
-You can find a potential README template in [one of last year's projects](https://github.com/iQuHACK/QuhacMan).
-
-Feel free to contact the staff with questions over our [event's slack](https://iquhack.slack.com), or via iquhack@mit.edu.
-
-Good luck!
